@@ -1,0 +1,21 @@
+
+{
+  "short_name": "RiseReset",
+  "name": "Rise Reset – 66 Day Life Reset",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e1e1e",
+  "background_color": "#000000"
+}
